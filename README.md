@@ -1,3 +1,2 @@
-Nama: <Muhammad Abdurrahman>
-=====
-NIM: <1801624126>
+Nama: Muhuammad Abdurrahman
+NIM: 1801624126
